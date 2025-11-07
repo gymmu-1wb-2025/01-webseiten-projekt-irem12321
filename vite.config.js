@@ -22,8 +22,8 @@ function getHtmlInputs() {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [],
-  base: "/02-website-project/",
-  build: {
+  base: "/01-webseiten-projekt-irem12321/",
+    build: {
     outDir: "dist",
     rollupOptions: {
       input: getHtmlInputs(),
