@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://images.services.kitchenstories.io/LHREzCi_pSQdXjKeo-qghcd-f2M=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/A1050-lisa-final.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(68, 43, 17);
+    padding: 1rem;
+}
+
+p {
+    color:rgb(255, 255, 255);
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(161, 116, 68);
+}
+h2 {
+color:rgb(236, 190, 167);
+
+}
